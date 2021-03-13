@@ -1,4 +1,4 @@
-# bloc1
+# counter_app
 
 A new Flutter application.
 
